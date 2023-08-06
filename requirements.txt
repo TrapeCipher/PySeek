@@ -1,0 +1,7 @@
+colorama
+fade
+cryptography
+opencv-python
+opencv-python-headless
+opencv-contrib-python
+requests
